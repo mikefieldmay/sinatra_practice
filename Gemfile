@@ -5,5 +5,5 @@ source "https://rubygems.org"
 gem 'sinatra'
 gem 'shotgun'
 gem 'capybara'
-gem 'selenium-webdriver', '2.0'
+gem 'selenium-webdriver'
 gem 'pry'
