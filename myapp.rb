@@ -13,5 +13,7 @@ get '/party' do
 end
 
 get '/cat' do
-    "<img src='http://bit.ly/1eze8aE', style='border: 3px dashed red'>"
+  "<div style='text-align: center'>
+    <img src='http://bit.ly/1eze8aE' align='middle', style='border: 3px dashed red'>
+    </div>"
 end
